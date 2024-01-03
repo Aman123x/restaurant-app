@@ -8,4 +8,4 @@ const Input =props=>{
     </div>
 }
 
-export default Input;
+export default Input; 
